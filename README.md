@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Hello, I'm Chaitanya Jawanjal!
+💫 Hello, I'm Chaitanya Jawanjal!
 🎓 A Computer Science student and aspiring Frontend Developer with a passion for solving real-world problems through innovative tech solutions.
 
 🌟 What I Do:
