@@ -4,9 +4,13 @@
 🌟 What I Do:
 
 🔍 Exploring AI Healthcare innovations with cutting-edge technology.
+
 💻 Currently developing a Hospital Management System as part of a Hackathon project.
+
 🌍 Built an Airbnb Clone using modern web technologies.
+
 🎮 Crafted engaging projects like a TikTok Toy Game and a Real-Time Weather App.
+
 🌟 My Expertise:
 
 💻 Frontend Development: HTML, CSS, JavaScript, and React.js (currently learning).
