@@ -1,4 +1,4 @@
-💫 Hello, I'm Chaitanya Jawanjal!
+#💫 Hello, I'm Chaitanya Jawanjal!
 🎓 A Computer Science student and aspiring Frontend Developer with a passion for solving real-world problems through innovative tech solutions.
 
 🌟 What I Do:
@@ -11,12 +11,16 @@
 
 🎮 Crafted engaging projects like a TikTok Toy Game and a Real-Time Weather App.
 
-🌟 My Expertise:
+#🌟 My Expertise:
 
 💻 Frontend Development: HTML, CSS, JavaScript, and React.js (currently learning).
+
 🌐 Backend Knowledge: Proficient in Node.js and Express for building APIs.
+
 🐍 Python Projects: Driver Drowsiness Detection with real-time alerts.
-📈 My Goals:
+
+# 📈 My Goals:
+
 
 🚀 Contribute to impactful projects that enhance user experiences.
 🌐 Explore more AI-driven applications for healthcare and safety.
