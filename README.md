@@ -65,11 +65,6 @@
 
 ---
 
-## 🎯 My Goals
-
-- 🚀 Join product-based or impact-driven companies solving real-world challenges
-- 🌐 Build more scalable, accessible applications for underserved communities
-- 💡 Deepen my expertise in AI-integrated web solutions
 
 ---
 
@@ -81,14 +76,6 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=chaitanyaj2121&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=chaitanyaj2121&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyaj2121&theme=dark&hide_border=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=chaitanyaj2121&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
