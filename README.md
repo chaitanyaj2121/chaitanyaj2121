@@ -1,6 +1,4 @@
-<h1 align="center">⚡ Tech Stack</h1>
 
----
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **Full-Stack Web Development**
