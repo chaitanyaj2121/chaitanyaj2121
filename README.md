@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Tech Stack & Profile</h1>
+<h1 align="center">⚡ Tech Stack</h1>
 
 ---
 
