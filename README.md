@@ -3,13 +3,6 @@
 
 ---
 
-## 🌟 What I Do
-
-- 👨‍💻 Build responsive and scalable full-stack applications
-- 🌐 Explore AI-driven solutions, especially in healthcare and public services
-- 🔧 Automate and simplify real-world problems with tech
-- 📱 Love creating clean UI/UX with React and Tailwind
-
 ---
 
 ## 💼 Tech Stack
@@ -47,21 +40,6 @@
 
 ---
 
-## 🧠 Notable Projects
-
-- **Smart College Attendance System**  
-  Role-based dashboard for HoDs, teachers, and students using React, Firebase, and Tailwind CSS.  
-  [Live Demo](https://smartaiml-delta.vercel.app)
-
-- **Smart Bus Tracker (No GPS)**  
-  Firebase-based bus status system for rural areas. Driver manually updates status; scalable and cost-free.  
-  [Live Demo](https://smarttrack-ten.vercel.app)
-
-- **AI Healthcare Web App**  
-  CTO role in a healthcare project with integrated blood bank dashboard. Built using Node.js, Express, Firebase.
-
-- **Driver Drowsiness Detection System**  
-  Python-based system using OpenCV and dlib for real-time alerting.
 
 ---
 
