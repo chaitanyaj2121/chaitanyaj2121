@@ -32,12 +32,6 @@
 
 ---
 
-### 🌍 Connect With Me
-<p align="left">
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-007ACC?logo=google-chrome&logoColor=white"></a>
-</p>
 
 ---
 
