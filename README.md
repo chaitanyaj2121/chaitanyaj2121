@@ -1,54 +1,45 @@
-# 💫 Hello, I'm Chaitanya Jawanjal!
-🎓 B.Tech Computer Science student | 💻 Frontend & Full Stack Developer | 🚀 Passionate about real-world tech solutions
+<h1 align="center">⚡ Tech Stack & Profile</h1>
 
 ---
 
-
-
-## 💼 Tech Stack
-
-**Languages**  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Frontend**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-**Backend & Database**  
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-
-**AI/ML Libraries**  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### 👨‍💻 About Me
+- 🔭 I’m currently working on **Full-Stack Web Development**
+- 🌱 Learning and exploring **AI/ML + DevOps**
+- 🚀 Passionate about building modern, scalable applications
 
 ---
 
+## 🚀 Tech Stack
 
-## 🌐 Connect with Me
+| Category | Technologies |
+|---------|-------------|
+| 🌐 **Frontend (Web)** | ![React](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-NextJS-000000?logo=next.js) ![NextAuth](https://img.shields.io/badge/-NextAuth-black?logo=auth0) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux) ![RTK Query](https://img.shields.io/badge/-RTK_Query-764ABC?logo=redux) ![React Router](https://img.shields.io/badge/-React_Router-CA4245?logo=react-router) ![React Query](https://img.shields.io/badge/-React_Query-FF4154?logo=react-query) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7E018?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
+| 📱 **Frontend (App)** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter) ![App Flavors](https://img.shields.io/badge/-App_Flavors-orange) ![Push Noti](https://img.shields.io/badge/-Push_Notification-FFCC00) |
+| 🛠 **Backend** | ![Node](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-ExpressJS-000000?logo=express) ![REST](https://img.shields.io/badge/-REST_API-blue) ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white) ![Mongoose](https://img.shields.io/badge/-Mongoose-880000) ![Socket.io](https://img.shields.io/badge/-SocketIO-010101?logo=socket.io) ![RBAC](https://img.shields.io/badge/-RBAC-green) |
+| ☁️ **Cloud / DevOps** | ![AWS S3](https://img.shields.io/badge/-AWS_S3-FF9900?logo=amazon-aws&logoColor=white) ![AWS EC2](https://img.shields.io/badge/-AWS_EC2-FF9900?logo=amazon-aws) ![Amplify](https://img.shields.io/badge/-AWS_Amplify-FF9900?logo=aws-amplify&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) |
+| 🗄 **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
+| 🧩 **Developer Tools** | ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) ![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint) ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=black) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) |
+| 🚀 **Deployment** | ![AWS EC2](https://img.shields.io/badge/-AWS_EC2-FF9900?logo=amazon-aws) ![Amplify](https://img.shields.io/badge/-AWS_Amplify-FF9900?logo=aws-amplify) ![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel) ![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-121013?logo=github) ![Netlify](https://img.shields.io/badge/-Netlify-0E1E25?logo=netlify) ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render) |
+| 📚 **Familiar** | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black) ![GraphQL](https://img.shields.io/badge/-GraphQL-E434AA?logo=graphql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-jawanjal-b01785270/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chaitanyadjp)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chaitanyaj92)
+---
 
+## 📈 GitHub Analytics
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="150" />
+</p>
 
+---
 
+### 🌍 Connect With Me
+<p align="left">
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-007ACC?logo=google-chrome&logoColor=white"></a>
+</p>
 
+---
 
+⭐ *Feel free to use this template & give a star if helpful!*
