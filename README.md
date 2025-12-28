@@ -30,9 +30,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="150" />
 </p>
 
----
-
-
----
 
 ⭐ *Feel free to use this template & give a star if helpful!*
