@@ -21,4 +21,4 @@
 
 ---
 
-⭐ *Feel free to use this template & give a star if helpful!*
+⭐ 
